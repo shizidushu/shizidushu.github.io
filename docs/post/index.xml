@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on SHIZIDUSHU Blog</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on SHIZIDUSHU Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to schedule R script with Docker and Apache Airflow</title>
+      <link>/2019/03/03/how-to-schedule-r-script-with-docker-and-apache-airflow/</link>
+      <pubDate>Sun, 03 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/03/03/how-to-schedule-r-script-with-docker-and-apache-airflow/</guid>
+      <description>As a data analyst, you may be required to send report as email at a regular basis. In R, you may use cronR to achieve this. It’s simple and easy to use. But today I will introduce Apache Airflow (written in python) to schedule R scripts as an alternative.
+We will use Apache Airflow to schedule a task to start a container to run your R scripts. Here is the steps:</description>
+    </item>
+    
+  </channel>
+</rss>
